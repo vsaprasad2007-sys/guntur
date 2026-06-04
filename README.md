@@ -165,9 +165,13 @@ Ward details can be updated dynamically from GMC records.
 
 <div class="gallery">
 <img width="212" height="148" alt="guntur1" src="https://github.com/user-attachments/assets/a9700960-8d53-48de-9ac7-8b35cdfc06ea" alt="Amaravati"/>
+    <p><strong>Amaravati Stupa</strong></p>
 <img width="301" height="167" alt="guntur 4" src="https://github.com/user-attachments/assets/0f659f8e-4b80-4134-abf5-96ee716cceac" alt="bird santuary"/>
+    <p><strong>Bird santuary</strong></p>
 <img width="300" height="168" alt="guntur 3" src="https://github.com/user-attachments/assets/3a6fea6a-e1fd-47ed-b868-0c1d204d5f6c" alt="Undavalli caves"/>
+    <p><strong>Undavalli cave</strong></p>
 <img width="201" height="251" alt="guntur 2" src="https://github.com/user-attachments/assets/3d8c809e-5651-4ccd-a926-4ef6c6468493" alt="Kondaveedu fort"/>
+<p><strong>Kondaveedu fort</strong></p>
 
 </div>
 
