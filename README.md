@@ -131,7 +131,7 @@ its proximity to Amaravati.
 </tr>
 
 </table>
-<a href="guntur word.docx" download>
+<a href="guntur word document.docx" download>
 📄 Download Guntur Report (Word Document)
 </a>
 
