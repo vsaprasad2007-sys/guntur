@@ -162,10 +162,13 @@ Ward details can be updated dynamically from GMC records.
 
 <div class="gallery">
 
-<img src="images/amaravati.jpg" alt="Amaravati">
-<img src="images/kondaveedu.jpg" alt="Kondaveedu Fort">
-<img src="images/undavalli.jpg" alt="Undavalli Caves">
-<img src="images/uppalapadu.jpg" alt="Bird Sanctuary">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Amaravati_Stupa.jpg" alt="Amaravati">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Kondaveedu_Fort.jpg" alt="Kondaveedu Fort">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Undavalli_Caves.jpg" alt="Undavalli Caves">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Uppalapadu_Bird_Sanctuary.jpg" alt="Bird Sanctuary">
 
 </div>
 
@@ -219,3 +222,4 @@ Ward details can be updated dynamically from GMC records.
 
 </body>
 </html>
+
