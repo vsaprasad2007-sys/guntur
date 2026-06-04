@@ -165,13 +165,13 @@ Ward details can be updated dynamically from GMC records.
 
 <div class="gallery">
 
-<img src="guntur1.jfif" alt="Amaravati">
+<img src="guntur1.jpg" alt="Amaravati">
 
-<img src="guntur2.jfif" alt="Kondaveedu Fort">
+<img src="guntur2.jpg" alt="Kondaveedu Fort">
 
-<img src="guntur3.jfif" alt="Undavalli Caves">
+<img src="guntur3.jpg" alt="Undavalli Caves">
 
-<img src="guntur4.jfif" alt="Bird Sanctuary">
+<img src="guntur4.jpg" alt="Bird Sanctuary">
 
 </div>
 
