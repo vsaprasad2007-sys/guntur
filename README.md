@@ -131,7 +131,7 @@ its proximity to Amaravati.
 </tr>
 
 </table>
-<a href="documents/guntur word document.docx" download>
+<a href="documents/guntur_report.docx" download>
 📄 Download Guntur Report (Word Document)
 </a>
 
@@ -165,13 +165,13 @@ Ward details can be updated dynamically from GMC records.
 
 <div class="gallery">
 
-<img src="images/guntur1.jpg" alt="Amaravati">
+<img src="Guntur1.jpeg" alt="Amaravati">
 
-<img src="images/guntur2.jpg" alt="Kondaveedu Fort">
+<img src="Guntur2.jpeg" alt="Kondaveedu Fort">
 
-<img src="images/guntur3.jpg" alt="Undavalli Caves">
+<img src="Guntur3.jpeg" alt="Undavalli Caves">
 
-<img src="images/guntur4.jpg" alt="Bird Sanctuary">
+<img src="Guntur4.jpeg" alt="Bird Sanctuary">
 
 </div>
 
