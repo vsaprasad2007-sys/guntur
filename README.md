@@ -193,7 +193,7 @@ Ward details can be updated dynamically from GMC records.
 
 <ul>
 <li>Acharya Nagarjuna University</li>
-<img width="432" height="116" alt="anu" src="https://github.com/user-attachments/assets/6f9a61e5-81d2-4823-9856-be021fc17679"alt="Aacharya Nagarjuna University" />
+<img width="432" height="116" alt="anu" src="https://github.com/user-attachments/assets/9f596dd4-0c50-41b0-b314-f38a5b38ac5c" alt="Aacharya Nagarjuna University"/>
   <p>
       Acharya Nagarjuna University (ANU), located in Guntur, Andhra Pradesh, is a prominent state university established in 1976. Named after the Buddhist philosopher Acharya Nagarjuna, it offers a wide array of undergraduate, postgraduate, and doctoral programs across 39 on-campus academic departments.
   </p>  
