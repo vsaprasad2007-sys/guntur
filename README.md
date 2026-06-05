@@ -1,4 +1,3 @@
-<img width="300" height="168" alt="rvr" src="https://github.com/user-attachments/assets/bc1c0ee9-fe4e-49d8-a526-86b5e60c7dcb" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
