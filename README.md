@@ -96,13 +96,13 @@ Guntur is one of the major cities of Andhra Pradesh.
 It is famous for its chilli market, agriculture,
 education institutions, healthcare facilities and
 its proximity to Amaravati.
-    Guntur is most famous for several unique and historic characteristics:
-    Spice Capital of India: It is globally renowned for its massive exports of chilies and is home to the largest chili market yard in Asia.
-    Cash Crop Hub: Beyond chilies, Guntur is a primary trading center for cotton and tobacco, supporting a massive network of cold storage facilities and agricultural commerce.
-    Historical Landmarks: The region features incredible ancient architecture, including the 4th-century Undavalli Caves and the 14th-century Kondaveedu Fort.
-    Buddhist Heritage: It is situated in a region of deep Buddhist significance, resting just a short distance from the ancient sites of Amaravati and Bhattiprolu.
-    Education & Culture: Often referred to as an educational hub, the city houses premier institutions like Guntur Medical College. It is also known as the    cultural bedrock of the Telugu film and arts industry.
-</p>
+    <p>
+    Guntur is most famous for several unique and historic characteristics:</p>
+   <p>Spice Capital of India: It is globally renowned for its massive exports of chilies and is home to the largest chili market yard </p>
+    <p>Cash Crop Hub: Beyond chilies, Guntur is a primary trading center for cotton and tobacco, supporting a massive network of cold storage facilities and agricultural commerce.</p>
+    <p>Historical Landmarks: The region features incredible ancient architecture, including the 4th-century Undavalli Caves and the 14th-century Kondaveedu Fort.</p>
+    <p>Buddhist Heritage: It is situated in a region of deep Buddhist significance, resting just a short distance from the ancient sites of Amaravati and Bhattiprolu.</p>
+    <p>Education & Culture: Often referred to as an educational hub, the city houses premier institutions like Guntur Medical College. It is also known as the cultural bedrock of the Telugu film and arts industry.</p>
     <img width="275" height="183" alt="royal 2" src="https://github.com/user-attachments/assets/01eb264e-483f-4c21-97e4-2fe0e498a057" />
     <img width="233" height="217" alt="royal 1" src="https://github.com/user-attachments/assets/59b06aa7-e828-4a15-9483-6f8b986e1eb8" />
     <img width="201" height="251" alt="chilli 2" src="https://github.com/user-attachments/assets/eab91880-ccc4-4b79-afa6-d0e50e5165d4" alt="Chilli Capital Of "/>
