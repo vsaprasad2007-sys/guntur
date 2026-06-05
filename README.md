@@ -1,3 +1,4 @@
+<img width="300" height="168" alt="rvr" src="https://github.com/user-attachments/assets/bc1c0ee9-fe4e-49d8-a526-86b5e60c7dcb" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -208,7 +209,7 @@ Ward details can be updated dynamically from GMC records.
         Andhra Christian College (A.C. College) in Guntur, Andhra Pradesh, is one of India's oldest educational institutions. Established in 1885 and affiliated with Acharya Nagarjuna University, it offers diverse undergraduate and postgraduate programs. Administered by the Andhra Evangelical Lutheran Church, it spans a 35-acre campus.
     </p>
 <li>RVR & JC College of Engineering</li>
-    <img width="300" height="168" alt="rvr" src="https://github.com/user-attachments/assets/7006a63f-1f79-4f1a-9cd1-390ecac4a8dc"alt="RVR and JC Collage Of Engineering" />
+    <img width="300" height="168" alt="rvr" src="https://github.com/user-attachments/assets/bc1c0ee9-fe4e-49d8-a526-86b5e60c7dcb" alt="RVR AND JC Collage Of Engineering"/>
     <p>
         R.V.R. & J.C. College of Engineering (Rayapati Venkata Rangarao & Jagarlamudi Chandramouli) is a premier, autonomous engineering institute located in Chowdavaram, Guntur, Andhra Pradesh. Established in 1985, it is sponsored by the Nagarjuna Education Society and affiliated with Acharya Nagarjuna University.
     </p>
