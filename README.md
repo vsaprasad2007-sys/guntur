@@ -96,6 +96,15 @@ Guntur is one of the major cities of Andhra Pradesh.
 It is famous for its chilli market, agriculture,
 education institutions, healthcare facilities and
 its proximity to Amaravati.
+    Guntur is most famous for several unique and historic characteristics:
+    Spice Capital of India: It is globally renowned for its massive exports of chilies and is home to the largest chili market yard in Asia.
+    Cash Crop Hub: Beyond chilies, Guntur is a primary trading center for cotton and tobacco, supporting a massive network of cold storage facilities and agricultural commerce.
+    Historical Landmarks: The region features incredible ancient architecture, including the 4th-century Undavalli Caves and the 14th-century Kondaveedu Fort.
+    Buddhist Heritage: It is situated in a region of deep Buddhist significance, resting just a short distance from the ancient sites of Amaravati and Bhattiprolu.
+    <img width="275" height="183" alt="royal 2" src="https://github.com/user-attachments/assets/01eb264e-483f-4c21-97e4-2fe0e498a057" />
+    <img width="233" height="217" alt="royal 1" src="https://github.com/user-attachments/assets/59b06aa7-e828-4a15-9483-6f8b986e1eb8" />
+    <img width="201" height="251" alt="chilli 2" src="https://github.com/user-attachments/assets/eab91880-ccc4-4b79-afa6-d0e50e5165d4" alt="Chilli Capital Of India/>
+Education & Culture: Often referred to as an educational hub, the city houses premier institutions like Guntur Medical College. It is also known as the cultural bedrock of the Telugu film and arts industry.
 </p>
 </div>
 </section>
@@ -184,10 +193,30 @@ Ward details can be updated dynamically from GMC records.
 
 <ul>
 <li>Acharya Nagarjuna University</li>
+<img width="432" height="116" alt="anu" src="https://github.com/user-attachments/assets/6f9a61e5-81d2-4823-9856-be021fc17679"alt="Aacharya Nagarjuna University" />
+  <p>
+      Acharya Nagarjuna University (ANU), located in Guntur, Andhra Pradesh, is a prominent state university established in 1976. Named after the Buddhist philosopher Acharya Nagarjuna, it offers a wide array of undergraduate, postgraduate, and doctoral programs across 39 on-campus academic departments.
+  </p>  
 <li>Guntur Medical College</li>
+    <img width="275" height="183" alt="gnt" src="https://github.com/user-attachments/assets/cfa06ae6-c254-4a49-b138-67cd6d7272eb" alt="Guntur Medical Collage"/>
+    <p>
+        Guntur Medical College (GMC), established in 1946, is a premier and highly esteemed government medical institution located in Guntur, Andhra Pradesh. It is affiliated with Dr. YSR University of Health Sciences (formerly Dr. NTRUHS) and attached to the massive 1,500+ bed Government General Hospital (GGH) for clinical training
+    </p>
 <li>Andhra Christian College</li>
+    <img width="354" height="142" alt="andhra" src="https://github.com/user-attachments/assets/580f338c-5534-4c95-b5c8-8959be5b9df5" alt="Andhra Christian collage"/>
+    <p>
+        Andhra Christian College (A.C. College) in Guntur, Andhra Pradesh, is one of India's oldest educational institutions. Established in 1885 and affiliated with Acharya Nagarjuna University, it offers diverse undergraduate and postgraduate programs. Administered by the Andhra Evangelical Lutheran Church, it spans a 35-acre campus.
+    </p>
 <li>RVR & JC College of Engineering</li>
+    <img width="300" height="168" alt="rvr" src="https://github.com/user-attachments/assets/7006a63f-1f79-4f1a-9cd1-390ecac4a8dc"alt="RVR and JC Collage Of Engineering" />
+    <p>
+        R.V.R. & J.C. College of Engineering (Rayapati Venkata Rangarao & Jagarlamudi Chandramouli) is a premier, autonomous engineering institute located in Chowdavaram, Guntur, Andhra Pradesh. Established in 1985, it is sponsored by the Nagarjuna Education Society and affiliated with Acharya Nagarjuna University.
+    </p>
 <li>KL University (nearby region)</li>
+    <img width="275" height="183" alt="kl" src="https://github.com/user-attachments/assets/4d956f3d-ab24-4f6f-8a8f-396e9c7dbf5c" alt="KL University"/>
+    <p>
+        K L Deemed to be University (KLEF) is a premier, multidisciplinary higher education institution headquartered in Vaddeswaram, Andhra Pradesh. Established in 1980, it is consistently ranked among the top institutions in India, offering over 100 undergraduate, postgraduate, and doctoral programs across engineering, management, law, and sciences.
+    </p>
 </ul>
 
 </div>
@@ -198,6 +227,9 @@ Ward details can be updated dynamically from GMC records.
 <h2>Healthcare Facilities</h2>
 
 <ul>
+    <p>
+        Guntur is a major healthcare hub in Andhra Pradesh, featuring a comprehensive mix of advanced multi-specialty hospitals, trusted charitable institutions, and highly accessible public facilities. The city provides quality primary, secondary, and tertiary care, with many centers accepting state-sponsored health schemes.Here are the following health facilities provided by the Government.
+    </p>
 <li>Government General Hospital</li>
 <li>Guntur Medical College Hospital</li>
 <li>Private Multi-Speciality Hospitals</li>
